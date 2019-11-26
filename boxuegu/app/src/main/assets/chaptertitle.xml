@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<infos>
+    <course id="1">
+        <imgtitle>Android 开发环境搭建</imgtitle>
+        <title>第1章 Android基础入门</title>
+        <intro>
+            Android是Google公司基于Linux平台开发的手机及平板电脑的操作系统。自问世以来，受到前所未有的关注，
+            并成为移动平台最受欢迎的操作系统之一。本章针对Androidde的基础知识进行详细的讲解。
+        </intro>
+    </course>
+    <course id="2">
+        <imgtitle>Android 五大布局</imgtitle>
+        <title>第2章 Android UI 开发</title>
+        <intro>
+            Android是Google公司基于Linux平台开发的手机及平板电脑的操作系统。自问世以来，受到前所未有的关注，
+            并成为移动平台最受欢迎的操作系统之一。本章针对Androidde的基础知识进行详细的讲解。
+        </intro>
+    </course>
+    <course id="3">
+        <imgtitle>Activity 的使用</imgtitle>
+        <title>第3章 Activity</title>
+        <intro>
+            Android是Google公司基于Linux平台开发的手机及平板电脑的操作系统。自问世以来，受到前所未有的关注，
+            并成为移动平台最受欢迎的操作系统之一。本章针对Androidde的基础知识进行详细的讲解。
+        </intro>
+    </course>
+    <course id="4">
+        <imgtitle>Android 开发环境搭建</imgtitle>
+        <title>第4章 Android基础入门</title>
+        <intro>
+            Android是Google公司基于Linux平台开发的手机及平板电脑的操作系统。自问世以来，受到前所未有的关注，
+            并成为移动平台最受欢迎的操作系统之一。本章针对Androidde的基础知识进行详细的讲解。
+        </intro>
+    </course>
+    <course id="5">
+        <imgtitle>Android 开发环境搭建</imgtitle>
+        <title>第5章 Android基础入门</title>
+        <intro>
+            Android是Google公司基于Linux平台开发的手机及平板电脑的操作系统。自问世以来，受到前所未有的关注，
+            并成为移动平台最受欢迎的操作系统之一。本章针对Androidde的基础知识进行详细的讲解。
+        </intro>
+    </course>
+    <course id="6">
+        <imgtitle>Android 开发环境搭建</imgtitle>
+        <title>第6章 Android基础入门</title>
+        <intro>
+            Android是Google公司基于Linux平台开发的手机及平板电脑的操作系统。自问世以来，受到前所未有的关注，
+            并成为移动平台最受欢迎的操作系统之一。本章针对Androidde的基础知识进行详细的讲解。
+        </intro>
+    </course>
+    <course id="7">
+        <imgtitle>Android 开发环境搭建</imgtitle>
+        <title>第7章 Android基础入门</title>
+        <intro>
+            Android是Google公司基于Linux平台开发的手机及平板电脑的操作系统。自问世以来，受到前所未有的关注，
+            并成为移动平台最受欢迎的操作系统之一。本章针对Androidde的基础知识进行详细的讲解。
+        </intro>
+    </course>
+    <course id="8">
+        <imgtitle>Android 开发环境搭建</imgtitle>
+        <title>第8章 Android基础入门</title>
+        <intro>
+            Android是Google公司基于Linux平台开发的手机及平板电脑的操作系统。自问世以来，受到前所未有的关注，
+            并成为移动平台最受欢迎的操作系统之一。本章针对Androidde的基础知识进行详细的讲解。
+        </intro>
+    </course>
+    <course id="9">
+        <imgtitle>Android 开发环境搭建</imgtitle>
+        <title>第9章 Android基础入门</title>
+        <intro>
+            Android是Google公司基于Linux平台开发的手机及平板电脑的操作系统。自问世以来，受到前所未有的关注，
+            并成为移动平台最受欢迎的操作系统之一。本章针对Androidde的基础知识进行详细的讲解。
+        </intro>
+    </course>
+    <course id="10">
+        <imgtitle>Android 开发环境搭建</imgtitle>
+        <title>第10章 Android基础入门</title>
+        <intro>
+            Android是Google公司基于Linux平台开发的手机及平板电脑的操作系统。自问世以来，受到前所未有的关注，
+            并成为移动平台最受欢迎的操作系统之一。本章针对Androidde的基础知识进行详细的讲解。
+        </intro>
+    </course>
+</infos>

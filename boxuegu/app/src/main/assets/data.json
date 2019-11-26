@@ -1,0 +1,44 @@
+[
+  {
+    "chapterId":1,
+    "videoId":"1",
+    "title":"第1章 Android 基础入门",
+    "secondTitle":"Android系统简介",
+    "videoPath":"/sdcard/011.mp4"
+  },
+  {
+    "chapterId":1,
+    "videoId":"2",
+    "title":"第1章 Android 基础入门",
+    "secondTitle":"Android系统简介",
+    "videoPath":"/sdcard/011.mp4"
+  },
+  {
+    "chapterId":2,
+    "videoId":"1",
+    "title":"第2章 Android 基础入门",
+    "secondTitle":"Android系统简介",
+    "videoPath":"/sdcard/011.mp4"
+  },
+  {
+    "chapterId":2,
+    "videoId":"2",
+    "title":"第2章 Android 基础入门",
+    "secondTitle":"Android系统简介",
+    "videoPath":"/sdcard/011.mp4"
+  },
+  {
+    "chapterId":3,
+    "videoId":"1",
+    "title":"第3章 Android 基础入门",
+    "secondTitle":"Android系统简介",
+    "videoPath":"/sdcard/011.mp4"
+  },
+  {
+    "chapterId":3,
+    "videoId":"2",
+    "title":"第3章 Android 基础入门",
+    "secondTitle":"Android系统简介",
+    "videoPath":"/sdcard/011.mp4"
+  }
+]
